@@ -13,9 +13,9 @@ public class Pr4
         int c=Integer.parseInt(in.readLine());
         int re=(a+b)*c;
         if(re<=100)
-        System.out.println("Greater than 100");
+        System.out.println("Less than 100");
         else
-        System.out.println("Less Than 100");
+        System.out.println("Greater than 100");
     }
 }
 
