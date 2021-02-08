@@ -1,2 +1,2 @@
 # SMVIT-CODEIT
-Basic School Practise
+College coding club
